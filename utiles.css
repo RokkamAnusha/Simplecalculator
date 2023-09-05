@@ -1,0 +1,22 @@
+.center{
+    text-align:center;
+}
+.bg-red{
+    background: black;
+    width: 324px;
+    border-radius: 7.5px;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    
+    text-align: center;
+}
